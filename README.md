@@ -1,5 +1,6 @@
 ### 💎 欢迎━(*｀∀´*)ノ亻! 💎
 
+![marionxue's github stats](https://github-readme-stats.vercel.app/api?username=frei-x&show_icons=true&theme=radica) 
 <!--
 **frei-x/frei-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
