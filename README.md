@@ -1,4 +1,4 @@
-### Hi there 👋
+### 💎 欢迎━(*｀∀´*)ノ亻! 💎
 
 <!--
 **frei-x/frei-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
